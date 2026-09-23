@@ -126,7 +126,7 @@ export const blogPostsData: BlogPost[] = [
     readTime: '4 min read',
     date: 'Sep 2026',
     image: 'https://i.pinimg.com/736x/f1/da/43/f1da43c045d9dbf2e60d857eaa77c19d.jpg',
-    url: '#blog-1'
+    url: 'https://github.com/ahmadyasin06/cybersecurity-journey'
   },
   {
     id: 'blog-2',
@@ -135,7 +135,7 @@ export const blogPostsData: BlogPost[] = [
     readTime: '4 min read',
     date: 'May 2026',
     image: 'https://i.pinimg.com/1200x/07/9b/23/079b2309477035668cee2f12e74a7a56.jpg',
-    url: '#blog-2'
+    url: 'https://github.com/ahmadyasin06'
   },
   {
     id: 'blog-3',
@@ -144,6 +144,6 @@ export const blogPostsData: BlogPost[] = [
     readTime: '6 min read',
     date: 'May 2026',
     image: 'https://i.pinimg.com/736x/75/25/7d/75257dc08e8320898e216f84914d6fbe.jpg',
-    url: '#blog-3'
+    url: 'https://www.behance.net/ahmadyasin22'
   }
 ];
